@@ -2,6 +2,8 @@
  //   David Fainitski
  //   2016
 
+#include <pic16f1938.h>
+
 #include    "oled_control.h"
 #include    "pic_init.h"
 #include    "main.h"
